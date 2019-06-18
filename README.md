@@ -1,4 +1,4 @@
-## Subsurface Machine Learning and Data Science bits and bobs
+## Geoscience Machine Learning bits and bobs
 
 Coming soon
 

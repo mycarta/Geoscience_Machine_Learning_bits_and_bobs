@@ -11,7 +11,7 @@ Coming soon
 
 ## Blog_posts ##
 
-- Geoscience Machine Learning bits and bobs – introduction
+- [Geoscience Machine Learning bits and bobs – introduction](https://mycarta.wordpress.com/2019/06/17/geoscience-machine-learning-bits-and-bobs-introduction/)
 - Geoscience Machine Learning bits and bobs – data inspection 
 
 ## Notebooks ##
@@ -24,4 +24,4 @@ Interactive notebooks:
 
 
 Static notebooks:
-* [01 Data inspection](https://github.com/mycarta/Geoscience_Machine_Learning_bits_and_bobs/blob/master/01_ML_bits_n_bobs_data_inspection.ipynb)
+* [01 - Data inspection](https://github.com/mycarta/Geoscience_Machine_Learning_bits_and_bobs/blob/master/01_ML_bits_n_bobs_data_inspection.ipynb)

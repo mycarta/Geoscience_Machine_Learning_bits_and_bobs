@@ -1,0 +1,10 @@
+name: SUB_ML_2019
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - matplotlib
+  - welly
+  - numpy
+  - pandas
+  - missingno

@@ -3,13 +3,13 @@
 ## Index ##
 
 * [Overview](#Overview)
-* [Blog posts](#Blog posts)
+* [Blog_posts](#Blog_posts)
 * [Notebooks](#Notebooks)
 
 ## Overview ##
 Coming soon
 
-## Blog posts ##
+## Blog_posts ##
 
 - Geoscience Machine Learning bits and bobs – introduction
 - Geoscience Machine Learning bits and bobs – data inspection 

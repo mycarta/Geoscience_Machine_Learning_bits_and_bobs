@@ -9,7 +9,7 @@
 ## Overview ##
 Coming soon
 
-##Blog posts ##
+## Blog posts ##
 
 - Geoscience Machine Learning bits and bobs – introduction
 - Geoscience Machine Learning bits and bobs – data inspection 
